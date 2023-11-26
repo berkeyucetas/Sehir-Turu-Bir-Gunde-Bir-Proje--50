@@ -1,0 +1,13 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\bin\Debug\Şehir Turu.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\bin\Debug\Şehir Turu.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\bin\Debug\Şehir Turu.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir Turu.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir_Turu.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir Turu.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir Turu.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir Turu.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir Turu.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir_Turu.frmAnaSayfa.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir_Turu.frmBilgiAl.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir_Turu.frmCami.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Şehir Turu\Şehir Turu\obj\Debug\Şehir_Turu.frmUniversite.resources
